@@ -2,9 +2,9 @@
 
 I'm a passionate developer and lifelong learner from India who enjoys  working on real-world data, and exploring the latest in technology.
 
- 🎓 Currently exploring Machine Learning, Web Development & Open Source.
- 🤖 I love building smart apps that solve real problems.
- ✨ Former Cultural Head with strong leadership and communication skills.
+ 🎓 Currently exploring Machine Learning, Web Development & Open Source.<br>
+ 🤖 I love building smart apps that solve real problems.<br>
+ ✨ Former Cultural Head with strong leadership and communication skills.<br>
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhita-chinmai-83ab36270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhitachinmai03@gmail.com) 
